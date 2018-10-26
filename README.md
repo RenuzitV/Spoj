@@ -1,2 +1,2 @@
-# Spoj-
+# Spoj
 Spoj solutions
